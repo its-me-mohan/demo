@@ -1,0 +1,43 @@
+1.Differnce between http 2/http 1.1
+     Http stands for hyper text transfer protocol.It is used in client server.
+     Using the http send the request to the server and the server sends the request to the user.
+     They are an various satges of an http 1.1 and http 2.http1.1 was created in 1992 and http2 was created in 2015.
+  HTTP 1.1
+     Send the request and repose between the client server.
+  Http/2
+     Http/2 works on binary framing layer   
+     
+     HTTP/1.1                           HTTP/2
+   1.it works on the textual format   it works on the binary format
+   2.it compress date by itself        it used hpack for data compression
+     
+2.Objects and its internal representation in javascrpit
+      In java script object it is most important data type.these are differnce from js primitive data types like num,str,boolean,null
+      for ex.if your object it is student it will have properties like name,age,address.etc
+         update address
+         update name
+      Objects and properties 
+          A propeety of an object can be explained as a variable that is attached to the object.
+             object name:property name
+     Unassigned properties of an objects are 
+           undefined(not a null)
+           my car,v=color://undefined
+   3.Read about ip address port http methods,mac methods
+         an ip address is an unique numerical label assigned each device conected to an computer network such as 
+           TWO main various of ip addresss
+            .ipv4-old version
+            .ipv6-new version
+    Http methods
+           http methods are specfic command sent within in http request to instruct the server on low to handle the request.
+           get-retrives data from the user.
+           post-submits the data to the server
+           put-update exciting data on the screen
+           delete-removes data from form the sever
+     Mac address
+           At mac address  is a unique hardware identifer assigned to network interface.   
+
+
+
+
+         
+
